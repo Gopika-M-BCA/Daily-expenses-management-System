@@ -1,0 +1,67 @@
+/* Import Google font - Poppins */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
+body {
+  background-color: #e7f2fd;
+  transition: all 0.5s ease;
+  font-size : 14px;
+  color : #444444;
+}
+.class1{
+  margin-left : 260px;
+}
+h1{
+    color: #00a4ff;
+    background: #f1f4f7;
+    margin-left : 0px;
+    padding-top: 90px;
+    padding-left: 150px;    
+    font-size: 30px;    
+    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+}
+table{
+ width :500px;
+ background : #3eadea7a;
+ border-bottom : 1px solid #ddd;
+ margin-left : 150px;
+ border-color : #3eadea7a;
+}
+thead{
+ color : #fff;
+ background : #3eadea7a;
+ white-space : nowrap;
+ padding : 5px;
+}
+tbody{
+ padding : 5px;
+}
+td{
+ color : #0033be;
+ background : #d0e1f2;
+ padding : 5px;
+}
+input[type="text"] { 
+    padding: 15px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    width: 400px;
+    color: #444444;
+    margin-left: 150px;
+   
+
+}
+button{ 
+    padding: 10px 20px; 
+    background-color:#00a4ff; 
+    color: white; 
+    border: none; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    margin-top: 10px;
+    //margin-left: 150px;
+} 
+button:hover { 
+    color:#00a4ff;
+    background-color: white; 
+} 
+
